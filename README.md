@@ -1,6 +1,6 @@
 # Serenity Buckner 🍜
 
-I'm a student, entrepreneur, full-stack developer, and Naruto fan, working towards creating digital solutions with real-world social impact. My philosophy towards building software, and really creatiom in general, is one driven by the need to understand the ethical bounds of technology and human nature. Thus, you'll find that all the projects here have a deep purpose that connects with either who I am, who I was, or who I hope to become; wherever you look, you'll find a small piece of me.
+I'm a student, entrepreneur, full-stack developer, and Naruto fan, working towards creating digital solutions with real-world social impact. My philosophy towards building software, and really creation in general, is one driven by the need to understand the ethical bounds of technology and human nature. Thus, you'll find that all the projects here have a deep purpose that connects with either who I am, who I was, or who I hope to become; wherever you look, you'll find a small piece of me.
 
 If you'd like to work together or simply would like to connect, please feel free to reach out!
 
